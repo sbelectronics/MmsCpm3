@@ -8,6 +8,7 @@ H8MODS=	2716_444-19_H17.rom \
 	zout/bvdip1.cim \
 	zout/bwiznet.cim \
 	zout/bram.cim \
+	zout/bbubble.cim \
 	zout/chelp.cim \
 	zout/cinput.cim \
 	zout/coutput.cim \
